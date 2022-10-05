@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <iomanip>
+#include <string>
 using namespace std;
 
 int main()
@@ -12,7 +13,7 @@ int main()
     auto adultTicket = 10.0, childTicket = 6.0, totalSalesAdults=0.0, totalSalesChildren=0.0, grossTotal=0.0, distributorEarnings=0.0, movieTheaterEarnings=0.0;
     auto adults=0, children=0;
     cout << "What is the name of the movie? ";
-    cin >> movie;
+    getline(cin, movie);
     cout << "How many adult tickets sold? ";
     cin >> adults;
     cout << "How many child tickets sold? ";
