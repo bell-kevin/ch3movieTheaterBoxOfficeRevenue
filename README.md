@@ -13,9 +13,9 @@ NOTE: Remember the requirements for a header and a pause at the end of the progr
 
 Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
 
-![1](https://github.com/bell-kevin/)
+![1](https://github.com/bell-kevin/ch3movieTheaterBoxOfficeRevenue/blob/main/revenue1.PNG)
 
-![2](https://github.com/bell-kevin/)
+![2](https://github.com/bell-kevin/ch3movieTheaterBoxOfficeRevenue/blob/main/revenue2.PNG)
 
 == We're Using GitHub Under Protest ==
 
